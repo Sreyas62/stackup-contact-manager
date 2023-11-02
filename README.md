@@ -1,11 +1,13 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+# Contact Manager
+A web application that allows users to create, edit, and manage their contacts.
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Sreyas M Pillai [Embed personal github URL]
+2. Sreelekshmi S [Embed perosnal github URL]
+3. Bestin K Benny [Embed perosnal github URL]
+4. Stephy Sam [Embed perosnal github URL]
 ## Team Id
-Team id here
+web-makers
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
