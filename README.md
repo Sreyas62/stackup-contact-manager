@@ -27,18 +27,18 @@ Node\
 MongoDB\
 React\
 React Redux\
-Express\
+Express
 ## How to configure
 Instructions for setting up project
 ## How to Run
 1. Fork the repository.
 2. Clone the repository.
-3. Install npm:\
+3. Install npm:
    `npm install`
 4. Set the env variables.
-5. For frontend:\
+5. For frontend:
    `yarn run dev`
 6. For backend:\
-   `npm start` \
-   or\
+   `npm start` 
+   or
    `nodemon index.js`
