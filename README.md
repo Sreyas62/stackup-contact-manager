@@ -23,22 +23,22 @@ Users can manually enter contact details, including name, phone number, email ad
 #### 3. Deleting Contacts: 
 Users can delete the saved contacts if needed.
 ## Libraries used
-Node
-MongoDB
-React
-React Redux
-Express
+Node\
+MongoDB\
+React\
+React Redux\
+Express\
 ## How to configure
 Instructions for setting up project
 ## How to Run
 1. Fork the repository.
 2. Clone the repository.
-3. Install npm:
+3. Install npm:\
    `npm install`
 4. Set the env variables.
-5. For frontend:
+5. For frontend:\
    `yarn run dev`
-6. For backend:
-   `npm start`
-   or
+6. For backend:\
+   `npm start` \
+   or\
    `nodemon index.js`
