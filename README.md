@@ -1,6 +1,6 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Contact Manager
-Contact Manager app is designed to help users organize and manage their contacts effectively. The primary goal is to store, retrieve, and delete contact information efficiently.
+Contact Manager is designed to help users organize and manage their contacts effectively. The primary goal is to store, retrieve, and delete contact information efficiently.
 #### Key Features
 1. User Registration/Setup
 2. Adding Contacts
