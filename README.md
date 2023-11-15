@@ -8,7 +8,7 @@ Contact Manager is designed to help users organize and manage their contacts eff
 ## Team members
 1. Sreyas M Pillai [Sreyas62](https://github.com/Sreyas62)
 2. Sreelekshmi S [SREEZ004](https://github.com/SREEZ004)
-3. Bestin K Benny [Embed perosnal github URL]
+3. Bestin K Benny [bestin015](https://github.com/bestin015) 
 4. Stephy Sam [StephZam](https://github.com/StephZam)
 ## Team Id
 web-makers
